@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_parcel_shipping_courier_app/ui/widgets/widgets.dart';
+import 'package:flutter_pretes1_minggu4/ui/widgets/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class HomeScreen extends StatefulWidget {
